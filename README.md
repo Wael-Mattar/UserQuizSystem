@@ -1,5 +1,6 @@
 User Management and Quiz System
-This project is a comprehensive User Management and Quiz System designed to streamline the process of managing users, creating quizzes, and enabling role-based access control. It includes distinct functionalities for Users, Admins, and Super Admins to ensure a seamless and secure experience.
+This project is a comprehensive User Management and Quiz System designed to streamline the process of managing users, creating quizzes, and enabling role-based access control.
+It includes distinct functionalities for Users, Admins, and Super Admins to ensure a seamless and secure experience.
 ________________________________________
 Features
 User Features
